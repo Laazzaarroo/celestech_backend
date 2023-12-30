@@ -1,0 +1,713 @@
+CRITICAL - 2023-12-05 06:25:45 --> Call to undefined method App\Models\Product::innerjoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerjoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:25:57 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:25:58 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:25:58 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:25:58 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:25:58 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:25:58 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:25:59 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:25:59 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:25:59 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:25:59 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:25:59 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:25:59 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:25:59 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:26:00 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:26:00 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:26:00 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:26:00 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:26:00 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:26:01 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:26:01 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:37:51 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:37:51 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:37:51 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:37:52 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:37:52 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:37:52 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:37:52 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:37:52 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:37:52 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:37:53 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:37:53 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:37:53 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:37:53 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:37:53 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 06:37:53 --> Call to undefined method App\Models\Product::innerJoin
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(30): CodeIgniter\Model->__call('innerJoin', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-05 06:39:13 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`' at line 3 in C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\finalbe\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\finalbe\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\finalbe\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\finalbe\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\finalbe\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\finalbe\app\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\finalbe\system\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+#8 C:\laragon\www\finalbe\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\laragon\www\finalbe\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\finalbe\public\index.php(87): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-12-05 06:39:14 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`' at line 3
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `products`
+OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-05 06:39:14 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`' at line 3 in C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\finalbe\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\finalbe\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\finalbe\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\finalbe\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\finalbe\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\finalbe\app\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\finalbe\system\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+#8 C:\laragon\www\finalbe\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\laragon\www\finalbe\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\finalbe\public\index.php(87): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-12-05 06:39:14 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`' at line 3
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `products`
+OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-05 06:39:15 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`' at line 3 in C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\finalbe\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\finalbe\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\finalbe\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\finalbe\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\finalbe\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\finalbe\app\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\finalbe\system\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+#8 C:\laragon\www\finalbe\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\laragon\www\finalbe\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\finalbe\public\index.php(87): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-12-05 06:39:15 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`' at line 3
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `products`
+OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-05 06:39:15 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`' at line 3 in C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\finalbe\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\finalbe\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\finalbe\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\finalbe\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\finalbe\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\finalbe\app\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\finalbe\system\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+#8 C:\laragon\www\finalbe\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\laragon\www\finalbe\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\finalbe\public\index.php(87): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-12-05 06:39:15 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`' at line 3
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `products`
+OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-05 06:39:29 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`' at line 3 in C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\finalbe\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\finalbe\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\finalbe\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\finalbe\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\finalbe\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\finalbe\app\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\finalbe\system\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+#8 C:\laragon\www\finalbe\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\laragon\www\finalbe\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\finalbe\public\index.php(87): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-12-05 06:39:29 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`' at line 3
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `products`
+OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-05 06:39:29 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`' at line 3 in C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\finalbe\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\finalbe\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\finalbe\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\finalbe\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\finalbe\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\finalbe\app\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\finalbe\system\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+#8 C:\laragon\www\finalbe\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\laragon\www\finalbe\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\finalbe\public\index.php(87): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-12-05 06:39:29 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`' at line 3
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `products`
+OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-05 06:39:30 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`' at line 3 in C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\finalbe\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\finalbe\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\finalbe\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\finalbe\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\finalbe\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\finalbe\app\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\finalbe\system\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+#8 C:\laragon\www\finalbe\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\laragon\www\finalbe\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\finalbe\public\index.php(87): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-12-05 06:39:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`' at line 3
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `products`
+OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-05 06:39:30 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`' at line 3 in C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\finalbe\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\finalbe\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\finalbe\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\finalbe\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\finalbe\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\finalbe\app\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\finalbe\system\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+#8 C:\laragon\www\finalbe\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\laragon\www\finalbe\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\finalbe\public\index.php(87): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-12-05 06:39:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`' at line 3
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `products`
+OUTER JOIN `brand` ON `products`.`brand_id` = `brand`.`id`', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-05 06:51:27 --> mysqli_sql_exception: Unknown column 'product.brand_id' in 'on clause' in C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\finalbe\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\finalbe\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\finalbe\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\finalbe\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\finalbe\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\finalbe\app\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\finalbe\system\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+#8 C:\laragon\www\finalbe\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\laragon\www\finalbe\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\finalbe\public\index.php(87): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-12-05 06:51:27 --> Unknown column 'product.brand_id' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `products`
+INNER JOIN `brand` ON `brand`.`id` = `product`.`brand_id`', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-05 06:51:27 --> mysqli_sql_exception: Unknown column 'product.brand_id' in 'on clause' in C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\finalbe\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\finalbe\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\finalbe\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\finalbe\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\finalbe\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\finalbe\app\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\finalbe\system\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+#8 C:\laragon\www\finalbe\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\laragon\www\finalbe\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\finalbe\public\index.php(87): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-12-05 06:51:27 --> Unknown column 'product.brand_id' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `products`
+INNER JOIN `brand` ON `brand`.`id` = `product`.`brand_id`', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-05 06:51:28 --> mysqli_sql_exception: Unknown column 'product.brand_id' in 'on clause' in C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\finalbe\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\finalbe\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\finalbe\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\finalbe\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\finalbe\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\finalbe\app\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\finalbe\system\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+#8 C:\laragon\www\finalbe\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\laragon\www\finalbe\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\finalbe\public\index.php(87): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-12-05 06:51:28 --> Unknown column 'product.brand_id' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `products`
+INNER JOIN `brand` ON `brand`.`id` = `product`.`brand_id`', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-05 06:51:28 --> mysqli_sql_exception: Unknown column 'product.brand_id' in 'on clause' in C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\finalbe\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\finalbe\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\finalbe\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\finalbe\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\finalbe\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\finalbe\app\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\finalbe\system\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+#8 C:\laragon\www\finalbe\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\laragon\www\finalbe\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\finalbe\public\index.php(87): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-12-05 06:51:28 --> Unknown column 'product.brand_id' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `products`
+INNER JOIN `brand` ON `brand`.`id` = `product`.`brand_id`', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-05 06:51:28 --> mysqli_sql_exception: Unknown column 'product.brand_id' in 'on clause' in C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\finalbe\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\finalbe\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\finalbe\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\finalbe\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\finalbe\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\laragon\www\finalbe\app\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+#7 C:\laragon\www\finalbe\system\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+#8 C:\laragon\www\finalbe\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\laragon\www\finalbe\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\finalbe\public\index.php(87): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-12-05 06:51:28 --> Unknown column 'product.brand_id' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `products`
+INNER JOIN `brand` ON `brand`.`id` = `product`.`brand_id`', [], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Controllers\MainController.php(30): CodeIgniter\BaseModel->findAll()
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->getCctvList()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 07:00:10 --> syntax error, unexpected token "*"
+in APPPATH\Controllers\MainController.php on line 30.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 07:00:11 --> syntax error, unexpected token "*"
+in APPPATH\Controllers\MainController.php on line 30.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 07:00:11 --> syntax error, unexpected token "*"
+in APPPATH\Controllers\MainController.php on line 30.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 07:21:03 --> syntax error, unexpected token "("
+in APPPATH\Controllers\MainController.php on line 33.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 07:21:03 --> syntax error, unexpected token "("
+in APPPATH\Controllers\MainController.php on line 33.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 07:21:03 --> syntax error, unexpected token "("
+in APPPATH\Controllers\MainController.php on line 33.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 07:21:03 --> syntax error, unexpected token "("
+in APPPATH\Controllers\MainController.php on line 33.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 07:21:05 --> syntax error, unexpected token "("
+in APPPATH\Controllers\MainController.php on line 33.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 07:21:05 --> syntax error, unexpected token "("
+in APPPATH\Controllers\MainController.php on line 33.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 07:32:29 --> Attempt to read property "id" on null
+in APPPATH\Controllers\MainController.php on line 35.
+ 1 APPPATH\Controllers\MainController.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->unlistProduct()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 07:33:39 --> Attempt to read property "id" on null
+in APPPATH\Controllers\MainController.php on line 35.
+ 1 APPPATH\Controllers\MainController.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->unlistProduct()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 07:34:23 --> Attempt to read property "id" on null
+in APPPATH\Controllers\MainController.php on line 35.
+ 1 APPPATH\Controllers\MainController.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->unlistProduct()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 07:36:23 --> Attempt to read property "id" on null
+in APPPATH\Controllers\MainController.php on line 35.
+ 1 APPPATH\Controllers\MainController.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->unlistProduct()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 07:38:12 --> Attempt to read property "id" on null
+in APPPATH\Controllers\MainController.php on line 35.
+ 1 APPPATH\Controllers\MainController.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->unlistProduct()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-05 07:46:23 --> Attempt to read property "id" on null
+in APPPATH\Controllers\MainController.php on line 35.
+ 1 APPPATH\Controllers\MainController.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->unlistProduct()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(87): CodeIgniter\CodeIgniter->run()
