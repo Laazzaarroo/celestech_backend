@@ -1,0 +1,184 @@
+CRITICAL - 2023-12-16 21:37:01 --> Call to undefined function App\Controllers\generateRandomString()
+in APPPATH\Controllers\MainController.php on line 103.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:44:07 --> Too few arguments to function App\Controllers\MainController::generateUniqueRandomString(), 0 passed in C:\laragon\www\finalbe\app\Controllers\MainController.php on line 114 and exactly 2 expected
+in APPPATH\Controllers\MainController.php on line 0.
+ 1 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:46:35 --> Too few arguments to function App\Controllers\MainController::generateUniqueRandomString(), 0 passed in C:\laragon\www\finalbe\app\Controllers\MainController.php on line 114 and exactly 2 expected
+in APPPATH\Controllers\MainController.php on line 0.
+ 1 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:49:50 --> Too few arguments to function App\Controllers\MainController::generateUniqueRandomString(), 0 passed in C:\laragon\www\finalbe\app\Controllers\MainController.php on line 114 and exactly 2 expected
+in APPPATH\Controllers\MainController.php on line 0.
+ 1 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:50:15 --> Too few arguments to function App\Controllers\MainController::generateUniqueRandomString(), 0 passed in C:\laragon\www\finalbe\app\Controllers\MainController.php on line 114 and exactly 2 expected
+in APPPATH\Controllers\MainController.php on line 0.
+ 1 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:51:11 --> Too few arguments to function App\Controllers\MainController::generateUniqueRandomString(), 0 passed in C:\laragon\www\finalbe\app\Controllers\MainController.php on line 114 and exactly 2 expected
+in APPPATH\Controllers\MainController.php on line 0.
+ 1 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:52:49 --> Too few arguments to function App\Controllers\MainController::generateUniqueRandomString(), 0 passed in C:\laragon\www\finalbe\app\Controllers\MainController.php on line 114 and exactly 2 expected
+in APPPATH\Controllers\MainController.php on line 0.
+ 1 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:53:15 --> Call to undefined function App\Controllers\isUniqueInDatabase()
+in APPPATH\Controllers\MainController.php on line 99.
+ 1 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:53:18 --> Call to undefined function App\Controllers\isUniqueInDatabase()
+in APPPATH\Controllers\MainController.php on line 99.
+ 1 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:53:49 --> Call to undefined method App\Controllers\MainController::UniqueInDatabase()
+in APPPATH\Controllers\MainController.php on line 99.
+ 1 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:53:49 --> Call to undefined method App\Controllers\MainController::UniqueInDatabase()
+in APPPATH\Controllers\MainController.php on line 99.
+ 1 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:53:50 --> Call to undefined method App\Controllers\MainController::UniqueInDatabase()
+in APPPATH\Controllers\MainController.php on line 99.
+ 1 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:53:50 --> Call to undefined method App\Controllers\MainController::UniqueInDatabase()
+in APPPATH\Controllers\MainController.php on line 99.
+ 1 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:53:51 --> Call to undefined method App\Controllers\MainController::UniqueInDatabase()
+in APPPATH\Controllers\MainController.php on line 99.
+ 1 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:53:51 --> Call to undefined method App\Controllers\MainController::UniqueInDatabase()
+in APPPATH\Controllers\MainController.php on line 99.
+ 1 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:53:52 --> Call to undefined method App\Controllers\MainController::UniqueInDatabase()
+in APPPATH\Controllers\MainController.php on line 99.
+ 1 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:53:52 --> Call to undefined method App\Controllers\MainController::UniqueInDatabase()
+in APPPATH\Controllers\MainController.php on line 99.
+ 1 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:53:53 --> Call to undefined method App\Controllers\MainController::UniqueInDatabase()
+in APPPATH\Controllers\MainController.php on line 99.
+ 1 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:53:53 --> Call to undefined method App\Controllers\MainController::UniqueInDatabase()
+in APPPATH\Controllers\MainController.php on line 99.
+ 1 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:54:24 --> count(): Argument #1 ($value) must be of type Countable|array, null given
+in APPPATH\Controllers\MainController.php on line 109.
+ 1 APPPATH\Controllers\MainController.php(109): count(null)
+ 2 APPPATH\Controllers\MainController.php(99): App\Controllers\MainController->isUniqueInDatabase('v1GGVUH3fP5dqUoB')
+ 3 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:54:25 --> count(): Argument #1 ($value) must be of type Countable|array, null given
+in APPPATH\Controllers\MainController.php on line 109.
+ 1 APPPATH\Controllers\MainController.php(109): count(null)
+ 2 APPPATH\Controllers\MainController.php(99): App\Controllers\MainController->isUniqueInDatabase('iRNaZeGvQ71xjSSf')
+ 3 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:54:25 --> count(): Argument #1 ($value) must be of type Countable|array, null given
+in APPPATH\Controllers\MainController.php on line 109.
+ 1 APPPATH\Controllers\MainController.php(109): count(null)
+ 2 APPPATH\Controllers\MainController.php(99): App\Controllers\MainController->isUniqueInDatabase('vDlKjttfYaRXGGUx')
+ 3 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:54:26 --> count(): Argument #1 ($value) must be of type Countable|array, null given
+in APPPATH\Controllers\MainController.php on line 109.
+ 1 APPPATH\Controllers\MainController.php(109): count(null)
+ 2 APPPATH\Controllers\MainController.php(99): App\Controllers\MainController->isUniqueInDatabase('sLINmS3wriQuPuj0')
+ 3 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:54:43 --> count(): Argument #1 ($value) must be of type Countable|array, null given
+in APPPATH\Controllers\MainController.php on line 109.
+ 1 APPPATH\Controllers\MainController.php(109): count(null)
+ 2 APPPATH\Controllers\MainController.php(99): App\Controllers\MainController->isUniqueInDatabase('9trnKlFfANBegJDa')
+ 3 APPPATH\Controllers\MainController.php(114): App\Controllers\MainController->generateUniqueRandomString()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-16 21:55:00 --> Attempt to read property "subject" on null
+in APPPATH\Controllers\MainController.php on line 117.
+ 1 APPPATH\Controllers\MainController.php(117): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "subject" on null', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 117)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->sendReport()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()

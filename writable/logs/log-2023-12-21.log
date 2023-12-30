@@ -1,0 +1,232 @@
+ERROR - 2023-12-21 01:32:49 --> mysqli_sql_exception: Unknown column 'product.brand_id' in 'on clause' in C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\finalbe\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\finalbe\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\finalbe\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\finalbe\system\Model.php(199): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\finalbe\system\BaseModel.php(563): CodeIgniter\Model->doFind(false, NULL)
+#6 C:\laragon\www\finalbe\app\Controllers\MainController.php(166): CodeIgniter\BaseModel->find()
+#7 C:\laragon\www\finalbe\system\CodeIgniter.php(942): App\Controllers\MainController->getProductList()
+#8 C:\laragon\www\finalbe\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\laragon\www\finalbe\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\finalbe\public\index.php(86): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-12-21 01:32:49 --> Unknown column 'product.brand_id' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `products`
+JOIN `brand` ON `product`.`brand_id` = `brand`.`id`
+WHERE `status` = :status:', [...], false)
+ 2 SYSTEMPATH\Model.php(199): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(563): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Controllers\MainController.php(166): CodeIgniter\BaseModel->find()
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getProductList()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 01:33:11 --> Call to undefined method App\Models\Product::inner_join
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(166): CodeIgniter\Model->__call('inner_join', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getProductList()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-21 01:33:42 --> mysqli_sql_exception: Unknown column 'product.brand_id' in 'on clause' in C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\finalbe\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\finalbe\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\finalbe\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\finalbe\system\Model.php(199): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\finalbe\system\BaseModel.php(563): CodeIgniter\Model->doFind(false, NULL)
+#6 C:\laragon\www\finalbe\app\Controllers\MainController.php(166): CodeIgniter\BaseModel->find()
+#7 C:\laragon\www\finalbe\system\CodeIgniter.php(942): App\Controllers\MainController->getProductList()
+#8 C:\laragon\www\finalbe\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\laragon\www\finalbe\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\finalbe\public\index.php(86): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-12-21 01:33:42 --> Unknown column 'product.brand_id' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `products`
+JOIN `brand` ON `product`.`brand_id` = `brand`.`id`
+WHERE `status` = :status:', [...], false)
+ 2 SYSTEMPATH\Model.php(199): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(563): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Controllers\MainController.php(166): CodeIgniter\BaseModel->find()
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getProductList()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-21 01:34:07 --> mysqli_sql_exception: Unknown column 'product.brand_id' in 'on clause' in C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\laragon\www\finalbe\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\laragon\www\finalbe\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\laragon\www\finalbe\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\laragon\www\finalbe\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\laragon\www\finalbe\system\Model.php(199): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\laragon\www\finalbe\system\BaseModel.php(563): CodeIgniter\Model->doFind(false, NULL)
+#6 C:\laragon\www\finalbe\app\Controllers\MainController.php(166): CodeIgniter\BaseModel->find()
+#7 C:\laragon\www\finalbe\system\CodeIgniter.php(942): App\Controllers\MainController->getProductList()
+#8 C:\laragon\www\finalbe\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+#9 C:\laragon\www\finalbe\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\laragon\www\finalbe\public\index.php(86): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-12-21 01:34:07 --> Unknown column 'product.brand_id' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `products`
+JOIN `brand` ON `product`.`brand_id` = `brand`.`id`
+WHERE `status` = :status:', [...], false)
+ 2 SYSTEMPATH\Model.php(199): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(563): CodeIgniter\Model->doFind(false, null)
+ 4 APPPATH\Controllers\MainController.php(166): CodeIgniter\BaseModel->find()
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getProductList()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 01:43:24 --> syntax error, unexpected single-quoted string ", lname) as name", expecting ")"
+in APPPATH\Controllers\MainController.php on line 269.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 01:43:50 --> syntax error, unexpected single-quoted string ", lname) as name", expecting ")"
+in APPPATH\Controllers\MainController.php on line 269.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 01:44:27 --> syntax error, unexpected single-quoted string ", lname) as name", expecting ")"
+in APPPATH\Controllers\MainController.php on line 269.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(900): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(489): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 01:47:41 --> Attempt to read property "name" on array
+in APPPATH\Controllers\MainController.php on line 270.
+ 1 APPPATH\Controllers\MainController.php(270): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on array', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 270)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getAccount()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 01:48:50 --> Attempt to read property "id" on null
+in APPPATH\Controllers\MainController.php on line 269.
+ 1 APPPATH\Controllers\MainController.php(269): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 269)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getAccount()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 01:50:46 --> Attempt to read property "name" on array
+in APPPATH\Controllers\MainController.php on line 270.
+ 1 APPPATH\Controllers\MainController.php(270): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "name" on array', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 270)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getAccount()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 04:31:02 --> Undefined property: stdClass::$password
+in APPPATH\Controllers\MainController.php on line 154.
+ 1 APPPATH\Controllers\MainController.php(154): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$password', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 154)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 04:34:19 --> Undefined property: stdClass::$password
+in APPPATH\Controllers\MainController.php on line 154.
+ 1 APPPATH\Controllers\MainController.php(154): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$password', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 154)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 04:35:15 --> Undefined property: stdClass::$password
+in APPPATH\Controllers\MainController.php on line 154.
+ 1 APPPATH\Controllers\MainController.php(154): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$password', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 154)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->signIn()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 04:37:09 --> Cannot use object of type stdClass as array
+in APPPATH\Controllers\MainController.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->signIn()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 04:37:20 --> Cannot use object of type stdClass as array
+in APPPATH\Controllers\MainController.php on line 154.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->signIn()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 07:22:30 --> Undefined property: stdClass::$data
+in APPPATH\Controllers\MainController.php on line 280.
+ 1 APPPATH\Controllers\MainController.php(280): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$data', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 280)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->form_insert()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 07:25:52 --> Undefined property: stdClass::$data
+in APPPATH\Controllers\MainController.php on line 280.
+ 1 APPPATH\Controllers\MainController.php(280): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$data', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 280)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->form_insert()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 07:26:00 --> Undefined property: stdClass::$data
+in APPPATH\Controllers\MainController.php on line 280.
+ 1 APPPATH\Controllers\MainController.php(280): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$data', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 280)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->form_insert()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 07:26:53 --> Undefined property: stdClass::$data
+in APPPATH\Controllers\MainController.php on line 280.
+ 1 APPPATH\Controllers\MainController.php(280): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$data', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 280)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->form_insert()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 07:28:20 --> Undefined property: stdClass::$data
+in APPPATH\Controllers\MainController.php on line 280.
+ 1 APPPATH\Controllers\MainController.php(280): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$data', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 280)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->form_insert()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 07:40:34 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\MainController.php on line 273.
+ 1 APPPATH\Controllers\MainController.php(273): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 273)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getAccount()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 07:40:42 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\MainController.php on line 273.
+ 1 APPPATH\Controllers\MainController.php(273): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 273)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getAccount()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 07:53:04 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\MainController.php on line 273.
+ 1 APPPATH\Controllers\MainController.php(273): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 273)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getAccount()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-21 23:51:13 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\MainController.php on line 273.
+ 1 APPPATH\Controllers\MainController.php(273): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\laragon\\www\\finalbe\\app\\Controllers\\MainController.php', 273)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\MainController->getAccount()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(86): CodeIgniter\CodeIgniter->run()

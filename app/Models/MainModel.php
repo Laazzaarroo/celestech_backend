@@ -6,7 +6,6 @@ use CodeIgniter\Model;
 
 class MainModel extends Model
 {
-    protected $DBGroup          = 'default';
     protected $table            = 'admin';
     protected $primaryKey       = 'id';
     protected $useAutoIncrement = true;
